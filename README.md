@@ -1,5 +1,7 @@
 # K4 — Level 3A, Ngày 12: Hạ Tầng Cloud & Deployment (240 phút)
 
+[![CI/CD](https://github.com/tlong1610/K4-L3A-DAY12-DoanTuanLong-2A202602609-CloudServicesAndDeployment/actions/workflows/ci.yml/badge.svg)](https://github.com/tlong1610/K4-L3A-DAY12-DoanTuanLong-2A202602609-CloudServicesAndDeployment/actions/workflows/ci.yml)
+
 Đưa một AI agent từ `localhost:8000` lên một địa chỉ công khai mà người khác
 gọi được, có bảo mật, có giới hạn chi phí, và không sập khi bạn deploy bản mới.
 
